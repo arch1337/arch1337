@@ -1,9 +1,8 @@
-### Hi there 👋
+###  🔻 Hi There 🔻
 
 <p align="center"><b>I'm Arch1337</b>. I'm a Backend Developer. I'm now working Javascript ,TypeScript , Svelte.</p>
 <p align="center">
 <p align="center">
-  </a>
   </a>
 </p>
 
