@@ -1,11 +1,29 @@
-###  🔻 Hi There 🔻
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/bora-dogru-505/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://instagram.com/4rch1337/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
+</p>
 
-<p align="center"><b>I'm Arch1337</b>. I'm a Backend Developer. I'm now working Javascript ,TypeScript , Svelte.</p>
-<p align="center">
-<p align="center">
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=arch1337&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arch1337" />
   </a>
+  <p>
+    <img src="https://views.whatilearened.today/views/github/arch1337/views.svg"/>
+    <a href="https://github.com/arch1337?tab=followers"><img src="https://img.shields.io/github/followers/arch1337?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/arch1337?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/arch-linux"/></a>
+  </p>
 </p>
+<br/><br/>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=arch1337&show_icons=true&theme=dark" />
-</p>
+<!--
+**arch1337/arch1337h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+- 🔭 I'm currently working as Security Researcher.
+- 🌱 I’m currently learning Network Security and Web Security practices.
+- 👯 I’m looking to exploit & security tool. ( for inspiration :) )
+- ⚡ Languages: Go, Python, Bash Scripting, Ruby.
