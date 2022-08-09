@@ -23,7 +23,7 @@
 **arch1337/arch1337h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working as Security Researcher.
-- 🌱 I’m currently learning Network Security and Web Security practices.
+- 🔭 I'm currently working as Security Operations Center Analyst.
+- 🌱 I’m currently learning Malware Analysis and Reverse Engineering practices.
 - 👯 I’m looking to exploit & security tool. ( for inspiration :) )
 - ⚡ Languages: Go, Python, Bash Scripting, Ruby.
