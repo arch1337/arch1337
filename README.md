@@ -12,7 +12,6 @@
   <p>
     <img src="https://views.whatilearened.today/views/github/correlationtrigger/views.svg"/>
     <a href="https://github.com/correlationtrigger?tab=followers"><img src="https://img.shields.io/github/followers/correlationtrigger?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/correlationtrigger?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/arch-linux"/></a>
   </p>
