@@ -1,7 +1,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/bora-dogru-505/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://instagram.com/4rch1337/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
+  <a href= "https://instagram.com/correlationtrigger/"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
 </p>
 
 <p>
