@@ -22,7 +22,6 @@
 **correlationtrigger/correlationtriggerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working as Security Operations Center Analyst.
-- 🌱 I’m currently learning Malware Analysis and Reverse Engineering practices.
-- 👯 I’m looking to exploit & security tool. ( for inspiration :) )
-- ⚡ Languages: Go, Python, Bash Scripting, Ruby.
+- 🔭 I'm currently working as Cyber Security Engineer.
+- 🌱 I’m currently learning Advanced Python and Cloud Platforms practices.
+- ⚡ Languages: Go, Python, Javascript, Bash Scripting.
